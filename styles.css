@@ -56,18 +56,15 @@ html {
     border:none;
     margin: 2%;
   }
-
  .key--decimal{
     grid-column: 2/span 2;
- } 
-  
+ }   
   .key--equal {
     background-image: linear-gradient(to bottom, #fe886a, #ff7033);
     grid-column: -2;
     grid-row: 3 / span 3; 
   }
   
-
   @media (max-width: 800px) {
     .calculator {
       width: 95%;
